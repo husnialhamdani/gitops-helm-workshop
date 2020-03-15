@@ -31,4 +31,4 @@ spec:
           proxy_hide_header l5d-server-id;
       path: /
       hosts:
-      - 34.87.137.2.hudani.io
+      - 35.240.131.12.hudani.io
